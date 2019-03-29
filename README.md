@@ -1,8 +1,8 @@
-##### CustomDialog
+# CustomDialog
 
 自定义万能对话框
 
-##### 简单使用
+# 简单使用
 ```
 // 弹出dialog  从底部并且带动画
 CommonDialog.Builder builder = new CommonDialog.Builder(this);
